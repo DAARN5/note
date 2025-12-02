@@ -66,7 +66,7 @@ function getNoteTemplate(note, index) {
         }" data-index="${index}" data-type="toggle">&check;</span>
         <span class="btn btn-small btn-danger" data-type="remove"
         data-index="${index}">&times;</span>
-      </span>
+      </span> 
     </li>
   `
 }
